@@ -28,7 +28,15 @@ app.get('/api/regions', (req, res) => {
     });
 });
 
-
+app.get('/api/properties/:id', (req, res) => {
+    fs.readFile( 'data/properties.json', 'utf-8', function(e, content){
+        let result = [];
+        JSON.parse(content).objects.map((item, i) => {
+            if (item.region == req.params.id) result.push(item);
+        });
+        res.send(result);
+    });
+})
 
 
 app.listen(app.get('port'), () => {

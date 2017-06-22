@@ -7,15 +7,14 @@ import Region from './region.component';
 class SearchComponent extends Component {
     constructor(props){
         super(props);
-        this.setupRegionList = this.setupRegionList.bind(this);
+        this.setupRegionsList = this.setupRegionsList.bind(this);
     }
 
     componentWillMount(){
         this.props.getRegions();
     }
 
-
-    setupRegionList(){
+    setupRegionsList(){
         let list = [];
         if (this.props.visible){
             this.props.data.map((item, i) => {
@@ -45,10 +44,11 @@ class SearchComponent extends Component {
                     onClick={ this.props.toggleVisibility } 
                 />
                 <ul className='list-select'>
-                    { this.setupRegionList() }
+                    { this.setupRegionsList() }
                 </ul>
                 <button 
                     className='search'
+                    onClick={ () => { this.props.getPropertiesByRegion(this.props.selected.id ) } }
                 >
                     &#x1f50d;
                 </button>
