@@ -8,42 +8,23 @@ class SearchComponent extends Component {
     constructor(props){
         super(props);
         this.setupRegionList = this.setupRegionList.bind(this);
-        this.changeVisible = this.changeVisible.bind(this);
-        //this.getRegionByName = this.getRegionByName.bind(this);
-        this.state = { ulActive: false };
     }
 
     componentWillMount(){
         this.props.getRegions();
-        console.log(this.props);
     }
 
-    changeVisible(previousState){
-        this.setState(previousState => {
-            return { ulActive: !previousState.ulActive };
-        });
-    }
 
-    /*getRegionByName(name){
-        this.props.data.map((item, i) => {
-            if (item.name == name) return item;
-        });
-        return {};
-    }*/
-
-    onSelect(){
-
-    }
-    
     setupRegionList(){
         let list = [];
-        if (this.state.ulActive){
+        if (this.props.visible){
             this.props.data.map((item, i) => {
                 list.push(
                     <Region 
                         key={ i }          
                         data={ item }
                         select={ this.props.selectRegion }
+                        toggle={ this.props.toggleVisibility }
                     />
                 );
             });
@@ -52,6 +33,7 @@ class SearchComponent extends Component {
     }
     
     render(){
+        console.log(this.props);
         return(
             <div className='list-header'>
                 <input 
@@ -59,8 +41,8 @@ class SearchComponent extends Component {
                     readOnly 
                     className='search'
                     placeholder='Select region..'
-                    value={ this.props.selected.name }
-                    onClick={ () => { this.changeVisible(this.state) } } 
+                    value={ this.props.selected ? this.props.selected.name : '' }
+                    onClick={ this.props.toggleVisibility } 
                 />
                 <ul className='list-select'>
                     { this.setupRegionList() }
@@ -83,6 +65,7 @@ const dispatchToProps = (dispatch) => {
     return bindActionCreators({
         getRegions: actions.getRegions,
         selectRegion: actions.selectRegion,
+        toggleVisibility: actions.toggleVisibility,
         getPropertiesByRegion: actions.getPropertiesByRegion
     }, dispatch);
 }

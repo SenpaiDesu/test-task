@@ -25,7 +25,7 @@ export default (state = initState(), action) => {
         case DROPLIST_VISIBLE_CHANGED: {
             return {
                 ...state,
-                visible: action.payload
+                visible: !state.visible
             }
         }
         default: {

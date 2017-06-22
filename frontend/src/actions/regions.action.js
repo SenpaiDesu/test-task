@@ -17,5 +17,11 @@ export const selectRegion = (region) => dispatch => {
     });
 }
 
+export const toggleVisibility = () => dispatch => {
+    dispatch({
+        type: DROPLIST_VISIBLE_CHANGED
+    });
+}
+
 
 
