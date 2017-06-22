@@ -1,0 +1,2014 @@
+{
+  "objects": [
+    {
+      "id": 802123092592028,
+      "group_id": 802123092592028,
+      "title": "Günstige Exklusive Kanzlei/ Büroräume am Alten Platz, komplett neu renoviert",
+      "slug": "guenstige-exklusive-kanzlei-bueroraeume-am-alten-platz-komplett-neu-renoviert",
+      "size": 125,
+      "price_deviation": 0.03969942033290863,
+      "no_of_rooms": 2,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T09:00:19.275Z",
+      "price": 0,
+      "unit_price": 0,
+      "district": 1597,
+      "region": 2,
+      "city": 1010,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802123092592028_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802123092592028_6.jpg"
+        }
+      ],
+      "object_detail_types": [
+        42
+      ],
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": true,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/kaernten/klagenfurt-am-woerthersee/9020-klagenfurt-am-woerthersee/802123092592028;guenstige-exklusive-kanzlei-bueroraeume-am-alten-platz-komplett-neu-renoviert;c69",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 9020 Klagenfurt am Wörthersee",
+        "url": "/immo/gewerbeimmobilie-mieten/kaernten/klagenfurt-am-woerthersee/9020-klagenfurt-am-woerthersee/"
+      }
+    },
+    {
+      "id": 802122923771291,
+      "group_id": 802122923771291,
+      "title": "Top Geschäftslokal im 1.Bezik",
+      "slug": "top-geschaeftslokal-im-1-bezik",
+      "size": 78,
+      "price_deviation": -0.8582338416017592,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T09:00:03.175Z",
+      "price": 2560,
+      "unit_price": 32.82,
+      "district": 1757,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 3,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122923771291_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122923771291_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122923771291_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122923771291_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122923771291_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122923771291_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122923771291_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122923771291_3.jpg"
+        }
+      ],
+      "object_detail_types": [
+        42
+      ],
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1010-wien-innenstadt/802122923771291;top-geschaeftslokal-im-1-bezik;de9",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1010 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1010-wien-innenstadt/"
+      }
+    },
+    {
+      "id": 802122027238809,
+      "group_id": 802122027238809,
+      "title": "LAGERHALLE / WERKSTÄTTE MIT BÜROMÖGLICHKEIT IN BESTER LAGE !! UNMITTELBAR HÜTTELDORFERSTRASSE / LINZERSTRASSE",
+      "slug": "lagerhalle-werkstaette-mit-bueromoeglichkeit-in-bester-lage-unmittelbar-huetteldorferstrasse-linzerstrasse",
+      "size": 1348,
+      "price_deviation": -0.005618768744170666,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T08:58:37.653Z",
+      "price": 6000,
+      "unit_price": 4.45,
+      "district": 10,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 6,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122027238809_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122027238809_12.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1140-wien-penzing/802122027238809;lagerhalle-werkstaette-mit-bueromoeglichkeit-in-bester-lage-unmittelbar-huetteldorferstrasse-linzerstrasse;f02",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1140 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1140-wien-penzing/"
+      }
+    },
+    {
+      "id": 802122021995927,
+      "group_id": 802122021995927,
+      "title": "BÜRO / ORDINATION / PRAXIS MIT GROSSER TERRASSE -- SCHWENDENPLATZ / NESTROYPLATZ UNMITTELBAR",
+      "slug": "buero-ordination-praxis-mit-grosser-terrasse-schwendenplatz-nestroyplatz-unmittelbar",
+      "size": 224,
+      "price_deviation": -0.2993356459774077,
+      "no_of_rooms": 6,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T08:58:37.132Z",
+      "price": 2100.05,
+      "unit_price": 9.38,
+      "district": 1758,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_12.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_13.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_13.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_14.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_14.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_15.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_15.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_16.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_16.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122021995927_17.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122021995927_17.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": true,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": true,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1020-wien-leopoldstadt/802122021995927;buero-ordination-praxis-mit-grosser-terrasse-schwendenplatz-nestroyplatz-unmittelbar;db8",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1020 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1020-wien-leopoldstadt/"
+      }
+    },
+    {
+      "id": 802122018850198,
+      "group_id": 802122018850198,
+      "title": "**TOP LAGE** NEUBAU BÜRO MIT BALKON -- EINZELNE ZIMMER MIETBAR -- BESTE VERKEHRSANBINDUNG",
+      "slug": "top-lage-neubau-buero-mit-balkon-einzelne-zimmer-mietbar-beste-verkehrsanbindung",
+      "size": 68,
+      "price_deviation": 0.4761214372701943,
+      "no_of_rooms": 2,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T08:58:36.819Z",
+      "price": 823.33,
+      "unit_price": 12.11,
+      "district": 1758,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 5,
+      "object_type_group_transfer_type": 4,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122018850198_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122018850198_11.jpg"
+        }
+      ],
+      "object_detail_types": [
+        46
+      ],
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": true,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/wohnung-mieten/wien/wien/1020-wien-leopoldstadt/802122018850198;top-lage-neubau-buero-mit-balkon-einzelne-zimmer-mietbar-beste-verkehrsanbindung;3b9",
+      "typeAndLocation": {
+        "label": "Wohnung mieten in 1020 Wien",
+        "url": "/immo/wohnung-mieten/wien/wien/1020-wien-leopoldstadt/"
+      }
+    },
+    {
+      "id": 802122015704469,
+      "group_id": 802122015704469,
+      "title": "**ZENTRUM SIMMERING** LAGER / WERKSTÄTTE / BÜRO ** U3 SIMMERING",
+      "slug": "zentrum-simmering-lager-werkstaette-buero-u3-simmering",
+      "size": 330,
+      "price_deviation": -0.017283116932958364,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T08:58:36.495Z",
+      "price": 2063,
+      "unit_price": 6.25,
+      "district": 1760,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 6,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_12.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_13.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_13.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_14.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_14.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122015704469_15.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122015704469_15.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1110-wien-simmering/802122015704469;zentrum-simmering-lager-werkstaette-buero-u3-simmering;683",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1110 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1110-wien-simmering/"
+      }
+    },
+    {
+      "id": 802122012558740,
+      "group_id": 802122012558740,
+      "title": "**ZENTRUM SIMMERING** LAGERFLÄCHE AUF EINER EBENE** U3 SIMMERING",
+      "slug": "zentrum-simmering-lagerflaeche-auf-einer-ebene-u3-simmering",
+      "size": 701,
+      "price_deviation": -0.34804129926487803,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T08:58:36.245Z",
+      "price": 769,
+      "unit_price": 1.1,
+      "district": 1760,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 6,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122012558740_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122012558740_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122012558740_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122012558740_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122012558740_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122012558740_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122012558740_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122012558740_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122012558740_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122012558740_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802122012558740_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802122012558740_5.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1110-wien-simmering/802122012558740;zentrum-simmering-lagerflaeche-auf-einer-ebene-u3-simmering;fd1",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1110 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1110-wien-simmering/"
+      }
+    },
+    {
+      "id": 802114287699300,
+      "group_id": 802114287699300,
+      "title": "**ZENTRUM SIMMERING** LAGERFLÄCHE AUF EINER EBENE** U3 SIMMERING",
+      "slug": "zentrum-simmering-lagerflaeche-auf-einer-ebene-u3-simmering",
+      "size": 701,
+      "price_deviation": 0.07728770701214671,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T08:46:19.579Z",
+      "price": 769,
+      "unit_price": 1.1,
+      "district": 1760,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 6,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802114287699300_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802114287699300_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802114287699300_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802114287699300_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802114287699300_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802114287699300_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802114287699300_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802114287699300_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802114287699300_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802114287699300_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8021/802114287699300_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8021/802114287699300_5.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1110-wien-simmering/802114287699300;zentrum-simmering-lagerflaeche-auf-einer-ebene-u3-simmering;521",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1110 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1110-wien-simmering/"
+      }
+    },
+    {
+      "id": 802056579319117,
+      "group_id": 802056579319117,
+      "title": "Schönes top saniertes Geschäft mit großer Auslage zu vermieten!",
+      "slug": "schoenes-top-saniertes-geschaeft-mit-grosser-auslage-zu-vermieten",
+      "size": 44.21,
+      "price_deviation": -0.048230818938463926,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T07:14:36.027Z",
+      "price": 669.75,
+      "unit_price": 15.15,
+      "district": 13,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 3,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8020/802056579319117_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8020/802056579319117_9.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1180-wien-waehring/802056579319117;schoenes-top-saniertes-geschaeft-mit-grosser-auslage-zu-vermieten;dc2",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1180 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1180-wien-waehring/"
+      }
+    },
+    {
+      "id": 801987190851047,
+      "group_id": 801987190851047,
+      "title": "WIENER TRADITION SEIT JAHRZEHNTEN",
+      "slug": "wiener-tradition-seit-jahrzehnten",
+      "size": 880,
+      "price_deviation": 0.5531901782378554,
+      "no_of_rooms": 7,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T05:24:18.601Z",
+      "price": 7200,
+      "unit_price": 8.18,
+      "district": 1759,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 9,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987190851047_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987190851047_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987190851047_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987190851047_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987190851047_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987190851047_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987190851047_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987190851047_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987190851047_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987190851047_4.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1050-wien-margareten/801987190851047;wiener-tradition-seit-jahrzehnten;364",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1050 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1050-wien-margareten/"
+      }
+    },
+    {
+      "id": 801987182462437,
+      "group_id": 801987182462437,
+      "title": "LAGERHALLE NÄHE AUTOBAHN & AIRPORT H1",
+      "slug": "lagerhalle-naehe-autobahn-_-airport-h1",
+      "size": 323,
+      "price_deviation": -0.34870009683072567,
+      "no_of_rooms": 1,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T05:24:17.807Z",
+      "price": 2508,
+      "unit_price": 7.76,
+      "district": 1331,
+      "region": 7,
+      "city": 647,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 6,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987182462437_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987182462437_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987182462437_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987182462437_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987182462437_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987182462437_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987182462437_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987182462437_3.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/steiermark/feldkirchen-bei-graz/8073-feldkirchen-bei-graz/801987182462437;lagerhalle-naehe-autobahn-_-airport-h1;64e",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 8073 Feldkirchen bei Graz",
+        "url": "/immo/gewerbeimmobilie-mieten/steiermark/feldkirchen-bei-graz/8073-feldkirchen-bei-graz/"
+      }
+    },
+    {
+      "id": 801987179316707,
+      "group_id": 801987179316707,
+      "title": "BÜRO MIT BEHEIZTE LAGERFLÄCHE IN OPTIMALER LAGE",
+      "slug": "buero-mit-beheizte-lagerflaeche-in-optimaler-lage",
+      "size": 395,
+      "price_deviation": 0.9717470817267895,
+      "no_of_rooms": 10,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T05:24:17.587Z",
+      "price": 2778,
+      "unit_price": 7.03,
+      "district": 515,
+      "region": 9,
+      "city": 1916,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987179316707_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987179316707_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987179316707_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987179316707_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987179316707_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987179316707_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987179316707_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987179316707_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987179316707_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987179316707_4.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/oberoesterreich/linz/4020-linz/801987179316707;buero-mit-beheizte-lagerflaeche-in-optimaler-lage;332",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 4020 Linz",
+        "url": "/immo/gewerbeimmobilie-mieten/oberoesterreich/linz/4020-linz/"
+      }
+    },
+{
+      "id": 801987177219553,
+      "group_id": 801987177219553,
+      "title": "GUT EINGEFÜHRTER SUPERMARKT",
+      "slug": "gut-eingefuehrter-supermarkt",
+      "size": 135,
+      "price_deviation": -0.4932424076832831,
+      "no_of_rooms": 7,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T05:24:17.366Z",
+      "price": 1640.11,
+      "unit_price": 12.15,
+      "district": 7,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 3,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987177219553_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987177219553_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987177219553_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987177219553_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987177219553_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987177219553_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987177219553_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987177219553_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801987177219553_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801987177219553_4.jpg"
+        }
+      ],
+      "object_detail_types": [
+        16
+      ],
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1100-wien-favoriten/801987177219553;gut-eingefuehrter-supermarkt;903",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1100 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1100-wien-favoriten/"
+      }
+    },
+    {
+      "id": 801944512759251,
+      "group_id": 801944512759251,
+      "title": "&quot;Frequenzlage - Gastronomie - mit Schanigarten - Umsatz - The MALL - Landstaße&quot;",
+      "slug": "_quotfrequenzlage-gastronomie-mit-schanigarten-umsatz-the-mall-landstasse_quot",
+      "size": 245,
+      "price_deviation": 0.6821986641734838,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T04:16:28.539Z",
+      "price": 10425.3,
+      "unit_price": 42.55,
+      "district": 1,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 9,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_12.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_13.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_13.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_14.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_14.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801944512759251_15.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801944512759251_15.jpg"
+        }
+      ],
+      "object_detail_types": [
+        14
+      ],
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1030-wien-landstrasse/801944512759251;_quotfrequenzlage-gastronomie-mit-schanigarten-umsatz-the-mall-landstasse_quot;77c",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1030 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1030-wien-landstrasse/"
+      }
+    },
+    {
+      "id": 801916700329467,
+      "group_id": 801916700329467,
+      "title": "Modernes Bürohaus",
+      "slug": "modernes-buerohaus",
+      "size": 679,
+      "price_deviation": -0.5192797021009028,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:32:16.177Z",
+      "price": 5.8,
+      "unit_price": 0.01,
+      "district": 8,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801916700329467_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801916700329467_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801916700329467_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801916700329467_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801916700329467_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801916700329467_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801916700329467_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801916700329467_3.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1120-wien-meidling/801916700329467;modernes-buerohaus;863",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1120 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1120-wien-meidling/"
+      }
+    },
+    {
+      "id": 801915723056388,
+      "group_id": 801915723056388,
+      "title": "FERIENWOHNANLAGE IN TOP LAGE!",
+      "slug": "ferienwohnanlage-in-top-lage",
+      "size": 58,
+      "price_deviation": -0.6924502016045153,
+      "no_of_rooms": 42,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:30:42.947Z",
+      "price": 2800000,
+      "unit_price": 48275.86,
+      "district": 664,
+      "region": 9,
+      "city": 2182,
+      "country": 12,
+      "transfer_type": 1,
+      "object_type": 10,
+      "object_type_group_transfer_type": 11,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801915723056388_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801915723056388_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801915723056388_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801915723056388_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801915723056388_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801915723056388_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801915723056388_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801915723056388_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801915723056388_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801915723056388_4.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": true,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/immobilie-kaufen/oberoesterreich/windischgarsten/4580-windischgarsten/801915723056388;ferienwohnanlage-in-top-lage;cff",
+      "typeAndLocation": {
+        "label": "Immobilie kaufen in 4580 Windischgarsten",
+        "url": "/immo/immobilie-kaufen/oberoesterreich/windischgarsten/4580-windischgarsten/"
+      }
+    },
+    {
+      "id": 801913074353742,
+      "group_id": 801913074353742,
+      "title": "Büroflächen im FLORIDO TOWER",
+      "slug": "bueroflaechen-im-florido-tower",
+      "size": 751,
+      "price_deviation": 0.07625175407156348,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:26:30.387Z",
+      "price": 10889.5,
+      "unit_price": 14.5,
+      "district": 16,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801913074353742_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801913074353742_12.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1210-wien-floridsdorf/801913074353742;bueroflaechen-im-florido-tower;3e1",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1210 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1210-wien-floridsdorf/"
+      }
+    },
+    {
+      "id": 801912988370483,
+      "group_id": 801912988370483,
+      "title": "Repräsentatives Büro im wunderschönen Prachtbau!",
+      "slug": "repraesentatives-buero-im-wunderschoenen-prachtbau",
+      "size": 635.49,
+      "price_deviation": -0.6530457232147455,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:26:22.096Z",
+      "price": 12074.31,
+      "unit_price": 19,
+      "district": 1,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912988370483_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912988370483_12.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1030-wien-landstrasse/801912988370483;repraesentatives-buero-im-wunderschoenen-prachtbau;4a6",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1030 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1030-wien-landstrasse/"
+      }
+    },
+    {
+      "id": 801912939087395,
+      "group_id": 801912939087395,
+      "title": "Charmant, repräsentativ und hell - in bester Grinziger Lage // Charming, representative and bright - in the best Grinzig location",
+      "slug": "charmant-repraesentativ-und-hell-in-bester-grinziger-lage-charming-representative-and-bright-in-the-best-grinzig-location",
+      "size": 208,
+      "price_deviation": 0.7651369837112725,
+      "no_of_rooms": 4,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:26:17.430Z",
+      "price": 3422.02,
+      "unit_price": 16.45,
+      "district": 14,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_10.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_11.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_11.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_12.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_12.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_13.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_13.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_14.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_14.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_15.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_15.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_16.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_16.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_17.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_17.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912939087395_18.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912939087395_18.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1190-wien-doebling/801912939087395;charmant-repraesentativ-und-hell-in-bester-grinziger-lage-charming-representative-and-bright-in-the-best-grinzig-location;5eb",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1190 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1190-wien-doebling/"
+      }
+    },
+    {
+      "id": 801912924407326,
+      "group_id": 801912924407326,
+      "title": "Schönes Büro nähe U3 in 1150 Wien // Beautiful office near U3 in 1150 Vienna //",
+      "slug": "schoenes-buero-naehe-u3-in-1150-wien-beautiful-office-near-u3-in-1150-vienna-",
+      "size": 394,
+      "price_deviation": 0.6838339301757514,
+      "no_of_rooms": 14,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:26:16.028Z",
+      "price": 4646.39,
+      "unit_price": 11.79,
+      "district": 11,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912924407326_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912924407326_10.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1150-wien-rudolfsheim-fuenfhaus/801912924407326;schoenes-buero-naehe-u3-in-1150-wien-beautiful-office-near-u3-in-1150-vienna-;bdc",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1150 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1150-wien-rudolfsheim-fuenfhaus/"
+      }
+    },
+    {
+      "id": 801912841569796,
+      "group_id": 801912841569796,
+      "title": "Prächtiger Altbau unmittelbar beim Schloss Belvedere!",
+      "slug": "praechtiger-altbau-unmittelbar-beim-schloss-belvedere",
+      "size": 232,
+      "price_deviation": 0.2749784248881042,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:26:08.139Z",
+      "price": 2900,
+      "unit_price": 12.5,
+      "district": 2,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912841569796_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912841569796_6.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1040-wien-wieden/801912841569796;praechtiger-altbau-unmittelbar-beim-schloss-belvedere;8bb",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1040 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1040-wien-wieden/"
+      }
+    },
+    {
+      "id": 801912582571449,
+      "group_id": 801912582571449,
+      "title": "Bürofläche in der Nähe des Wiener Messezentrums!",
+      "slug": "bueroflaeche-in-der-naehe-des-wiener-messezentrums",
+      "size": 159,
+      "price_deviation": 0.21827069530263543,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:25:43.439Z",
+      "price": 1431,
+      "unit_price": 9,
+      "district": 1758,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_6.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_7.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_7.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_8.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_8.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_9.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_9.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912582571449_10.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912582571449_10.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1020-wien-leopoldstadt/801912582571449;bueroflaeche-in-der-naehe-des-wiener-messezentrums;39e",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1020 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1020-wien-leopoldstadt/"
+      }
+    },
+    {
+      "id": 801912534336939,
+      "group_id": 801912534336939,
+      "title": "Große Lagerfläche Nahe Perfektastraße!",
+      "slug": "grosse-lagerflaeche-nahe-perfektastrasse",
+      "size": 580,
+      "price_deviation": 0.9580623060464859,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:25:38.879Z",
+      "price": 3190,
+      "unit_price": 5.5,
+      "district": 1762,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 6,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912534336939_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912534336939_main.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1230-wien-liesing/801912534336939;grosse-lagerflaeche-nahe-perfektastrasse;894",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1230 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1230-wien-liesing/"
+      }
+    },
+    {
+      "id": 801912500782497,
+      "group_id": 801912500782497,
+      "title": "Zentrumsnah und umgeben mit bester Infrastruktur!",
+      "slug": "zentrumsnah-und-umgeben-mit-bester-infrastruktur",
+      "size": 985,
+      "price_deviation": 0.6146924579516053,
+      "no_of_rooms": null,
+      "no_of_days": 1,
+      "imported_at": "2017-06-04T03:25:35.691Z",
+      "price": 10588.75,
+      "unit_price": 10.75,
+      "district": 1,
+      "region": 1,
+      "city": 1369,
+      "country": 12,
+      "transfer_type": 2,
+      "object_type": 4,
+      "object_type_group_transfer_type": 9,
+      "pictures": [
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_main.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_main.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_1.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_1.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_2.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_2.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_3.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_3.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_4.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_4.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_5.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_5.jpg"
+        },
+        {
+          "thumbSize": "https://ik.imagekit.io/mls/images/tr:n-thumb/8019/801912500782497_6.jpg",
+          "fullSize": "https://ik.imagekit.io/mls/images/tr:n-full/8019/801912500782497_6.jpg"
+        }
+      ],
+      "object_detail_types": null,
+      "use_type": 2,
+      "has_pictures": true,
+      "commission_free": null,
+      "fitted_kitchen": null,
+      "redeveloped": null,
+      "basement": null,
+      "disability_access": null,
+      "elevator": null,
+      "storage_room": null,
+      "balcony": null,
+      "terrace": null,
+      "roof_terrace": null,
+      "winter_garden": null,
+      "garden": null,
+      "loggia": null,
+      "guest_bathroom": null,
+      "garage": null,
+      "parking": null,
+      "heating_types": null,
+      "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1030-wien-landstrasse/801912500782497;zentrumsnah-und-umgeben-mit-bester-infrastruktur;ed7",
+      "typeAndLocation": {
+        "label": "Gewerbeimmobilie mieten in 1030 Wien",
+        "url": "/immo/gewerbeimmobilie-mieten/wien/wien/1030-wien-landstrasse/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "regions": [
+    {
+      "id": 1,
+      "name": "Wien",
+      "districtSortProperty": "zip"
+    },
+    {
+      "id": 2,
+      "name": "Kärnten",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 3,
+      "name": "Niederösterreich",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 4,
+      "name": "Burgenland",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 5,
+      "name": "Vorarlberg",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 6,
+      "name": "Salzburg",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 7,
+      "name": "Steiermark",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 8,
+      "name": "Tirol",
+      "districtSortProperty": "name"
+    },
+    {
+      "id": 9,
+      "name": "Oberösterreich",
+      "districtSortProperty": "name"
+    }
+  ]
+}

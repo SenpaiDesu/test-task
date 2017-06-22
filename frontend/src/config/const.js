@@ -1,0 +1,8 @@
+export const REGIONS_LOAD_SUCCESS = 1001;
+export const REGION_SELECTED = 1002;
+export const DROPLIST_VISIBLE_CHANGED = 1003;
+
+export const PROPERTIES_LOAD_SUCCESS = 2001;
+
+
+export const MESSAGE_RECEIVE_SUCCESS = 2001;
