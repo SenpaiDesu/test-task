@@ -40,7 +40,7 @@ class SearchComponent extends Component {
                     readOnly 
                     className='search'
                     placeholder='Select region..'
-                    value={ this.props.selected ? this.props.selected.name : '' }
+                    value={ this.props.selected.name }
                     onClick={ this.props.toggleVisibility } 
                 />
                 <ul className='list-select'>

@@ -12,26 +12,28 @@ body {
   color: #888;
 }
 
+img {
+  display: block;
+  width: 100%;
+}
+
 .wrap {
   width: 60%;
   margin: 0 auto;
   min-width: 400px;
+  display: flex;
+  flex-direction: column;
 }
 
 .list-header {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   position: relative;
-  width: 100%;
   padding: 10px 15px;
   background: #00234b;
-  border-radius: 0 0 4px 4px;
 }
 
 input.search {
-  display: block;
-  width: 100%;
   background: #fff;
   height: 2em;
   padding: 0 10px;
@@ -39,8 +41,6 @@ input.search {
 }
 
 button.search {
-  display: block;
-  width: 100%;
   background: #f7485f;
   height: 2.2em;
   color: #fff;
@@ -73,4 +73,45 @@ ul.list-select li:first-child {
 
 ul.list-select li:hover {
   background: #ddd;
+}
+
+.list-body {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  box-shadow: 1px 1px 3px #666;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.list-item:hover {
+  background: #ccc;
+}
+
+.item-info {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px 0;
+}
+
+.flex-image, .flex-desc {
+  margin: 0 10px;
+}
+
+.flex-title {
+  flex-basis: 100%;
+  color: #f7485f;
+}
+
+.flex-image {
+  flex: 2 1 0;
+}
+
+.flex-desc {
+  flex: 3 1 0;
 }

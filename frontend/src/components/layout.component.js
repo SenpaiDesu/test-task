@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Search from './search.component';
+import List from './list.component';
 
 class LayoutComponent extends Component {
     constructor(props){
@@ -9,10 +10,8 @@ class LayoutComponent extends Component {
     render(){
         return(
             <div className='wrap'>
-                <header>
-                    
-                </header>
                 <Search />
+                <List />
             </div>
         );
     }
