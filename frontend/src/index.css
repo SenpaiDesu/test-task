@@ -7,9 +7,13 @@
 }
 
 body {
-  font-family: sans-serif;
-  font-size: 14px;
-  color: #888;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #777;
+}
+
+h3 {
+  font-size: 1.1em;
 }
 
 img {
@@ -90,17 +94,13 @@ ul.list-select li:hover {
 }
 
 .list-item:hover {
-  background: #ccc;
+  background: #ddd;
 }
 
 .item-info {
   display: flex;
   justify-content: space-around;
   padding: 5px 0;
-}
-
-.flex-image, .flex-desc {
-  margin: 0 10px;
 }
 
 .flex-title {
@@ -110,8 +110,20 @@ ul.list-select li:hover {
 
 .flex-image {
   flex: 2 1 0;
+  margin-right: 15px;
 }
 
 .flex-desc {
   flex: 3 1 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-desc p {
+  flex: 1 1 0;
+  padding: 6px;
+}
+
+.flex-desc p:nth-child(odd) {
+  background: #eee;
 }
