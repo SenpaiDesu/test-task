@@ -99,6 +99,7 @@ ul.list-select li:hover {
 
 .item-info {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   padding: 5px 0;
 }
@@ -111,12 +112,14 @@ ul.list-select li:hover {
 .flex-image {
   flex: 2 1 0;
   margin-right: 15px;
+  min-width: 200px;
 }
 
 .flex-desc {
   flex: 3 1 0;
   display: flex;
   flex-direction: column;
+  min-width: 300px;
 }
 
 .flex-desc p {
