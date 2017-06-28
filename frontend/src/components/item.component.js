@@ -11,7 +11,7 @@ export default (props) => {
                 </div>
                 
                 <div className='flex-desc'>
-                    <p>Description: { props.data.typeAndLocation.label }</p>
+                    <p>Location: { props.data.typeAndLocation.label }</p>
                     <p>Price: { props.data.price }</p>
                     <p>Delta price: { props.data.price - props.avgPrice }</p>
                 </div>
